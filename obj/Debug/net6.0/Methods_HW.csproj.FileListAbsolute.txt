@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Task\Methods_HW\bin\Debug\net6.0\Methods_HW.exe
+C:\Users\hp\Desktop\Task\Methods_HW\bin\Debug\net6.0\Methods_HW.deps.json
+C:\Users\hp\Desktop\Task\Methods_HW\bin\Debug\net6.0\Methods_HW.runtimeconfig.json
+C:\Users\hp\Desktop\Task\Methods_HW\bin\Debug\net6.0\Methods_HW.dll
+C:\Users\hp\Desktop\Task\Methods_HW\bin\Debug\net6.0\Methods_HW.pdb
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\Methods_HW.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\Methods_HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\Methods_HW.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\Methods_HW.AssemblyInfo.cs
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\Methods_HW.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\Methods_HW.dll
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\refint\Methods_HW.dll
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\Methods_HW.pdb
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\Methods_HW.genruntimeconfig.cache
+C:\Users\hp\Desktop\Task\Methods_HW\obj\Debug\net6.0\ref\Methods_HW.dll
