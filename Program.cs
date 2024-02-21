@@ -7,46 +7,37 @@
             #region ForMethods
             //Console.WriteLine(Division(100, 200));
             //int[] nums = { 100, 200, 300, 12, 321 };
-            //int result=Sum(nums);
-            //Console.WriteLine("Ededlerin cemi:" +result) ;
-            FindSimpleOrComplex(16);
-            IsPower(32);
+            //int result = Sum(nums);
+            //Console.WriteLine("Ededlerin cemi:" + result);
+            //FindSimpleOrComplex(16);
+            //IsPower(32);
             #endregion
            
-        
-            #region Task_5
-            //Verilmiş müsbət tam n ədədinin 2 - nin qüvvəti olub-olmamasını tapın.
-            
-            #endregion
-            #region Method_Task_1
-            //Bir method olsun iki parametr qəbul etsin və bu parametrlərdən birincini ikinciyə bölüb nəticəni geri qaytarsın.
-
-
-            //static double Division(double a, double b)
-            //{
-            //    double division = a / b;
-            //    return division;
-            //}
-            #endregion
-            #region Method_Task_2
-            //Bir method olsun göndərilən "n" sayda ədədin hamsını toplayıb geri qaytarsın.
-
-            //static int Sum(params int[] nums)
-            //{
-            //    int sum = 0;
-            //    for (int i = 0; i < nums.Length; i++)
-            //    {
-            //        sum = sum + nums[i];
-            //    }
-            //    return sum;
-
-            //}
-            #endregion
-
-
-
-
         }
+        #region Method_Task_1
+        //Bir method olsun iki parametr qəbul etsin və bu parametrlərdən birincini ikinciyə bölüb nəticəni geri qaytarsın.
+
+
+        //static double Division(double a, double b)
+        //{
+        //    double division = a / b;
+        //    return division;
+        //}
+        #endregion
+        #region Method_Task_2
+        //Bir method olsun göndərilən "n" sayda ədədin hamsını toplayıb geri qaytarsın.
+
+        //static int Sum(params int[] nums)
+        //{
+        //    int sum = 0;
+        //    for (int i = 0; i < nums.Length; i++)
+        //    {
+        //        sum = sum + nums[i];
+        //    }
+        //    return sum;
+
+        //}
+        #endregion
         #region Task_3
         static int FindOddNumbers(int n, int m)
         {
@@ -82,11 +73,10 @@
             }
         }
         #endregion
+        #region Task_5
         static void IsPower(double number)
         {
-            
-            // 2,4,8,16,32,64,128,256,512,1024,2048,4096,8192
-
+         
             while (number > 0)
             {
 
@@ -105,6 +95,7 @@
 
             }
         }
+        #endregion
 
     }
 
